@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Soni</h1>
-<h3 align="center">An enthu-cutlet sophomore</h3>
+<h3 align="center">An enthu-cutlet </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-harsh&label=Profile%20views&color=0e75b6&style=flat" alt="s-harsh" /> </p>
 
