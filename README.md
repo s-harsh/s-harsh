@@ -86,9 +86,6 @@ Diagnosed a cache-stampede problem via distributed locking — cut redirect late
 
 </details>
 
-<img src="https://img.shields.io/github/stars/s-harsh/url-shortener?style=flat-square&color=7c93ff" />
-<img src="https://img.shields.io/github/last-commit/s-harsh/url-shortener?style=flat-square&color=7c93ff" />
-
 </td>
 <td width="50%" valign="top">
 
@@ -107,9 +104,6 @@ Diagnosed a cache-stampede problem via distributed locking — cut redirect late
 - OpenTelemetry + Jaeger distributed tracing
 
 </details>
-
-<img src="https://img.shields.io/github/stars/s-harsh/enterprise-identity-platform?style=flat-square&color=7c93ff" />
-<img src="https://img.shields.io/github/last-commit/s-harsh/enterprise-identity-platform?style=flat-square&color=7c93ff" />
 
 </td>
 </tr>
