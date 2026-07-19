@@ -146,12 +146,7 @@ Browse the rest of what I'm building and contributing to.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s-harsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-harsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-harsh&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=s-harsh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
