@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,100:7c93ff&height=200&section=header&text=Harshvardhan%20Soni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20Enterprise%20IAM%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A1e2a4a%2C100%3A7c93ff&height=180&section=header&text=Harshvardhan%20Soni&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <a href="https://linkedin.com/in/harshvardhansonihv">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=7C93FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%40+miniOrange;LDAP+%C2%B7+Active+Directory+%C2%B7+OAuth+2.0;Kafka+%C2%B7+Redis+%C2%B7+Kubernetes;Building+auth+systems+that+don't+fall+over" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=7C93FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Enterprise+IAM+%26+Auth;LDAP+%C2%B7+Active+Directory+%C2%B7+OAuth+2.0;Kafka+%C2%B7+Redis+%C2%B7+Kubernetes;Building+auth+systems+that+don't+fall+over" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 ## 📌 About Me
 
 ```yaml
-role:          Backend Engineer @ miniOrange
+role:          Backend Engineer
 focus:         Enterprise IAM · Authentication Infrastructure · Distributed Systems
 currently:     Owning auth platform architecture for a directory-sync & IAM
                platform serving 50,000+ enterprise users
@@ -185,4 +185,4 @@ Browse the rest of what I'm building and contributing to.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c93ff,100:1e2a4a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7c93ff%2C100%3A1e2a4a&height=120&section=footer" width="100%"/>
